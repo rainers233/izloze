@@ -1,0 +1,32 @@
+td {
+    text-align: center;
+  }
+  h1 {
+    text-decoration: overline underline;
+  }
+  h1 {
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  }
+  h1 {
+    text-align: center;
+  }
+  td {
+    font-size: 150%;
+  }
+  td {
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  }
+  td {
+    outline-style: solid;
+    outline-color: rgb(0, 0, 0);
+  }
+  td {
+    text-align: center;
+  }
+  ul#menu-utility-navigation {
+    width: 100%;
+  }
+  
+  ul#menu-utility-navigation li {
+    text-align: center;
+  }
