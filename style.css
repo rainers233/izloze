@@ -30,3 +30,6 @@ td {
   ul#menu-utility-navigation li {
     text-align: center;
   }
+  body {
+    background-color: rgb(27, 27, 27);
+  }
